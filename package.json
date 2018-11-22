@@ -1,0 +1,21 @@
+{
+  "name": "distinguishedweeb",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "description": "A rated D for Desu, Discord bot written for NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpago/DistinguishedWeeb.git"
+  },
+  "author": "gpago",
+  "bugs": {
+    "url": "https://github.com/gpago/DistinguishedWeeb/issues"
+  },
+  "homepage": "https://github.com/gpago/DistinguishedWeeb#readme"
+}
