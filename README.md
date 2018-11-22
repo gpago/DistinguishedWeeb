@@ -1,2 +1,2 @@
 # DistinguishedWeeb
-A rated D for Desu, Discord botapp written for NodeJS. 
+A rated D for Desu, Discord bot written for NodeJS. 
